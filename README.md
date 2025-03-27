@@ -1,4 +1,5 @@
-![header]([https://capsule-render.vercel.app/api?height=400](https://capsule-render.vercel.app/api?text=Code%20%20-%20Innovate&type=waving&section=header&height=250&fontColor=ffffff&fontAlign=70&fontAlignY=35))
+![header](https://capsule-render.vercel.app/api?text=Code%20%20-%20Innovate&type=waving&section=header&height=250&fontColor=ffffff&fontAlign=70&fontAlignY=35)
+
 
 # 💫 About Me:
 💻 What I Do:<br>	•	🎨 Frontend: React.js, Next.js, MUI, Tailwind CSS<br>	•	🏗️ Backend: Node.js, Express.js, TypeORM, Prisma<br>	•	📦 Database: MongoDB, PostgreSQL<br>	•	🌐 State Management: Zustand, TanStack Query, Redux<br>	•	🔧 Other Tools: NextAuth, PDFMake, Tiptap, Vuexy Nuxt.js<br><br>🔥 My Interests:<br>	•	Building seamless web & mobile apps<br>	•	Optimizing performance & user experience
